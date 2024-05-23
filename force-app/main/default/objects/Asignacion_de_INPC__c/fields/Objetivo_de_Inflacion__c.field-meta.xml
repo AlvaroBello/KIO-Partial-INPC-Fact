@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Objetivo_de_Inflacion__c</fullName>
+    <description>INPC heredado del objeto INPC el cual es el valor publicad en el DOF</description>
+    <externalId>false</externalId>
+    <label>Objetivo de Inflación</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>4</scale>
+    <trackTrending>false</trackTrending>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>

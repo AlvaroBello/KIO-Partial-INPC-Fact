@@ -1,0 +1,60 @@
+<template>
+    <lightning-card icon-name="standard:account" title="Creacíon de Asignación de INPC">
+        <lightning-button-icon slot="actions"  disable={createdINPC} if:true={check} variant="brand" icon-name="utility:send" onclick={handleSubmit} class="slds-m-left_xx-small"></lightning-button-icon> 
+        <lightning-record-edit-form object-api-name="Asignacion_de_INPC__c">
+            <div class="slds-grid slds-wrap">
+                <template lwc:if={renewal}>
+                    <div class="slds-col slds-size_2-of-3">
+                        <div class="slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small">
+                            <label>Control INPC</label>
+                            <lightning-input-field field-name="INPC__c" variant="label-hidden" disabled={firstyear} onchange={handleChangeINPC} value={inpcAsign} required ></lightning-input-field>
+                        </div>
+                    </div>
+                    <div class="slds-col slds-1-of-3">
+                        <div class="slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small">
+                            <label>Renovación</label>
+                            <lightning-helptext content='Si la oportunidad es una renovación y la casilla no se lleno automaticamente, favor de cambiar el tipo de transacción a "Renovación", o solicite ayuda de su administrador para modificarla una vez creada la asignación'></lightning-helptext>
+                            <lightning-input-field field-name="Renovacion__c" variant="label-hidden" disabled value={renewal} ></lightning-input-field>
+                        </div>
+                    </div>
+                </template>
+                <template lwc:else>
+                    <div class="slds-col slds-size_1-of-1">
+                        <div class="slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small">
+                            <label>Control INPC</label>
+                            <lightning-input-field field-name="INPC__c" variant="label-hidden" disabled={firstyear} onchange={handleChangeINPC} value={inpcAsign} required ></lightning-input-field>
+                        </div>
+                    </div>
+                </template>
+                <div class="slds-col slds-size_1-of-2">
+                    <div class="slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small">
+                        <label>Vigencia de Inicio</label>
+                        <lightning-input-field field-name="Vigencia_de_Inicio__c" variant="label-hidden" onchange={handleChangeVI} value={vigenciainicio} required ></lightning-input-field>
+                    </div>
+                </div>
+                <div class="slds-col slds-size_1-of-2">
+                    <div class="slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small">
+                        <label>Vigencia de Fin</label>
+                        <lightning-input-field field-name="Vigencia_de_Fin__c" variant="label-hidden" onchange={handleChangeVF} value={vigenciafin} required ></lightning-input-field>
+                    </div>
+                </div>
+                <div class="slds-col slds-size_1-of-2">
+                    <div class="slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small">
+                        <label>Mes que aplico</label>
+                        <lightning-input-field field-name="Mes_que_aplico__c" variant="label-hidden" onchange={handleChangeMes} value={mesqueaplico} required ></lightning-input-field>
+                    </div>
+                </div>
+                <div class="slds-col slds-size_1-of-2">
+                    <div class="slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small">
+                        <label>Mes que debio aplicar</label>
+                        <lightning-input-field field-name="Mes_que_debio_aplicar__c" variant="label-hidden" onchange={handleChangeMesAplico} value={mesquedebidoaplicar} required ></lightning-input-field>
+                    </div>
+                </div>
+            </div>
+            </lightning-record-edit-form>
+            <div slot="footer" lwc:if={fullInfo}> Confirmar para avanzar
+                <lightning-helptext content='Seleccionar para la creación y confirmación de datos'></lightning-helptext>
+                <lightning-input type="checkbox"  value={check} onchange={handleChange} required></lightning-input>
+            </div>
+    </lightning-card>
+</template>

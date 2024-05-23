@@ -1,0 +1,39 @@
+<template>
+    <lightning-card icon-name="standard:account" title="Creación de INPC">
+        <lightning-button-icon slot="actions"  disabled={fullInfo} variant="brand" icon-name="utility:send" onclick={handleSubmit} class="slds-m-left_xx-small"></lightning-button-icon> 
+        <lightning-record-edit-form object-api-name="INPC__c">
+            <div class="slds-grid slds-wrap">
+                <div class="slds-col slds-size_1-of-2">
+                    <div class="slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small">
+                        <label >Año</label>
+                        <lightning-input-field field-name="Year__c" variant="label-hidden" value={year} onchange={handleChangeyear}></lightning-input-field>
+                    </div>
+                </div>
+                <div class="slds-col slds-size_1-of-2">
+                    <div class="slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small">
+                        <label>Mes</label>
+                        <lightning-input-field field-name="Mes__c" variant="label-hidden" value={month} onchange={handleChangemonth} required></lightning-input-field>
+                    </div>
+                </div>
+            </div>
+            <div class="slds-grid slds-wrap">
+                <div class="slds-col slds-size_1-of-2">
+                    <div class="slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small">
+                        <label>% INPC MXN</label>
+                        <lightning-input-field field-name="INPC_Mx__c" variant="label-hidden" value={inpcmx} onchange={handleChangemx} required ></lightning-input-field>
+                    </div>
+                </div>
+                <div class="slds-col slds-size_1-of-2">
+                    <div class="slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small">
+                        <label>% INPC USD</label>
+                        <lightning-input-field field-name="INPC_Dlrs__c" variant="label-hidden" value={inpcdlrs} onchange={handleChangedlrs} required></lightning-input-field>
+                    </div>
+                </div>
+            </div>
+            </lightning-record-edit-form>
+            <p slot="footer" > Confirmar para avanzar
+                <lightning-helptext content='Seleccionar para la creación y confirmación de datos'></lightning-helptext>
+                <lightning-input type="checkbox" disabled={fullInfo} value={check} onchange={handleChange} required></lightning-input>
+            </p>
+    </lightning-card>
+</template>

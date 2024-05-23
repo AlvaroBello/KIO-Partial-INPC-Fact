@@ -1,0 +1,2398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>AVX_Chart1</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AVX_Chart1</shortDescription>
+        <value>1. Eres capaz de identificar claramente las necesidades del cliente?</value>
+    </labels>
+    <labels>
+        <fullName>AVX_Chart10</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AVX Chart10</shortDescription>
+        <value>10. Conoces los criterios de decisión de cada tomador de decisión?</value>
+    </labels>
+    <labels>
+        <fullName>AVX_Chart11</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AVX_Chart11</shortDescription>
+        <value>11. Tienes relacionamiento efectivo con los ejecutivos relevantes?</value>
+    </labels>
+    <labels>
+        <fullName>AVX_Chart12</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AVX_Chart12</shortDescription>
+        <value>12. Tenemos casos de exitos y referencias que nos respaldan / dan credibilidad?</value>
+    </labels>
+    <labels>
+        <fullName>AVX_Chart2</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AVX_Chart2</shortDescription>
+        <value>2. El cliente tiene un presupuesto definido?</value>
+    </labels>
+    <labels>
+        <fullName>AVX_Chart3</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AVX Chart3</shortDescription>
+        <value>3.  El cliente tiene un presupuesto aprobado?</value>
+    </labels>
+    <labels>
+        <fullName>AVX_Chart4</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AVX Chart4</shortDescription>
+        <value>4. El cliente tiene una fecha en donde necesita decidir para comenzar?</value>
+    </labels>
+    <labels>
+        <fullName>AVX_Chart5</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AVX Chart5</shortDescription>
+        <value>5. Tenemos solución competitiva para atender la necesidad del cliente?</value>
+    </labels>
+    <labels>
+        <fullName>AVX_Chart6</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AVX Chart6</shortDescription>
+        <value>6. Tenemos experiencia en ventas y servicios para éste proyecto?</value>
+    </labels>
+    <labels>
+        <fullName>AVX_Chart7</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AVX Chart7</shortDescription>
+        <value>7. Tenemos los recursos necesarios de ventas y servicios?</value>
+    </labels>
+    <labels>
+        <fullName>AVX_Chart8</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AVX Chart8</shortDescription>
+        <value>8. Nuestra propuesta agrega valor al negocio del cliente?</value>
+    </labels>
+    <labels>
+        <fullName>AVX_Chart9</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AVX Chart9</shortDescription>
+        <value>9. Conoces a las personas que tomaran la decisión?</value>
+    </labels>
+    <labels>
+        <fullName>AVX_Error_Split</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>AVX Error Split</shortDescription>
+        <value>No es posible modificar la división de las oportunidades en las ultimas dos etapas</value>
+    </labels>
+    <labels>
+        <fullName>AVX_KioDivisionUser</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AVX_KioDivisionUser</shortDescription>
+        <value>KIO DCS</value>
+    </labels>
+    <labels>
+        <fullName>AVX_KioLOASuccess</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AVX_KioLOASuccess</shortDescription>
+        <value>Se genero la Solicitud XC/IC de manera exitosa.</value>
+    </labels>
+    <labels>
+        <fullName>AVX_KioLabelNamePdf</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>AVX_KioLabelNamePdf</shortDescription>
+        <value>LOA</value>
+    </labels>
+    <labels>
+        <fullName>AVX_KioLabelNamePdf2</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>AVX_KioLabelNamePdf2</shortDescription>
+        <value>VALIDACIÓN</value>
+    </labels>
+    <labels>
+        <fullName>AVX_KioLabelNamePdf3</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>AVX_KioLabelNamePdf3</shortDescription>
+        <value>VALIDACION</value>
+    </labels>
+    <labels>
+        <fullName>AVX_KioNamePdf</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AVX_KioNamePdf</shortDescription>
+        <value>.pdf</value>
+    </labels>
+    <labels>
+        <fullName>AVX_KioPickLNone</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AVX_KioPickLNone</shortDescription>
+        <value>--- Ninguno ---</value>
+    </labels>
+    <labels>
+        <fullName>AVX_KioSocietyOP</fullName>
+        <categories>XC-IC</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AVX_KioSocietyOP</shortDescription>
+        <value>K016 - Data Center Services</value>
+    </labels>
+    <labels>
+        <fullName>AVX_KioStatusSolic</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AVX_KioStatusSolic</shortDescription>
+        <value>Solicitada</value>
+    </labels>
+    <labels>
+        <fullName>AVX_KioTextTermsAndConditions</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AVX_KioTextTermsAndConditions</shortDescription>
+        <value>&lt;p&gt;Sit nulla est ex deserunt exercitation anim occaecat. Nostrud ullamco deserunt aute id &lt;/p&gt; consequat veniam incididunt duis in sint irure nisi. Mollit officia cillum Lorem ullamco minim nostrud elit officia tempor esse quis. Cillum sunt ad dolore quis aute consequat ipsum magna exercitation reprehenderit magna. Tempor cupidatat consequat elit dolor adipisicing.
+
+Dolor eiusmod sunt ex incididunt cillum quis nostrud velit duis sit officia. Lorem aliqua enim laboris do dolor eiusmod officia. Mollit incididunt nisi consectetur esse laborum eiusmod pariatur proident. Eiusmod et adipisicing culpa deserunt nostrud ad veniam nulla aute est. Labore esse esse cupidatat amet velit id elit consequat minim ullamco mollit enim excepteur ea.</value>
+    </labels>
+    <labels>
+        <fullName>AVX_Last_stage</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>AVX Last stage</shortDescription>
+        <value>Ganada/Firma de contrato</value>
+    </labels>
+    <labels>
+        <fullName>AVX_Last_stage_2</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>AVX Last stage 2</shortDescription>
+        <value>Aceptación por el cliente</value>
+    </labels>
+    <labels>
+        <fullName>AVX_Last_stage_3</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>AVX_Last_stage_3</shortDescription>
+        <value>Acceptance</value>
+    </labels>
+    <labels>
+        <fullName>AVX_Last_stage_4</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>AVX_Last_stage_4</shortDescription>
+        <value>Acceptance/Commit</value>
+    </labels>
+    <labels>
+        <fullName>AVX_Last_stage_5</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>AVX_Last_stage_5</shortDescription>
+        <value>Closed Won</value>
+    </labels>
+    <labels>
+        <fullName>AVX_PleaseApprove</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>AVX PleaseApprove</shortDescription>
+        <value>Favor de revisar los nuevos valores en la división de la oportunidad.</value>
+    </labels>
+    <labels>
+        <fullName>AVX_Subject</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>AVX Subject</shortDescription>
+        <value>Copropiedad en oportunidad</value>
+    </labels>
+    <labels>
+        <fullName>AVX_URL</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>AVX URL</shortDescription>
+        <value>https://kionetworks.lightning.force.com/</value>
+    </labels>
+    <labels>
+        <fullName>AVX_administrador_del_sistema</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>AVX administrador del sistema</shortDescription>
+        <value>Administrador del sistema</value>
+    </labels>
+    <labels>
+        <fullName>AVX_supportsalesforce_Email</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>AVX_supportsalesforce_Email</shortDescription>
+        <value>supportsalesforce@kionetworks.com</value>
+    </labels>
+    <labels>
+        <fullName>Add_Producst</fullName>
+        <categories>Order - Custom</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Add Producst - Supplements Cmp</shortDescription>
+        <value>Add Producst</value>
+    </labels>
+    <labels>
+        <fullName>Add_Products_Instruction</fullName>
+        <categories>Order - Custom</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Add Products Instruction - Reduce Products Cmp</shortDescription>
+        <value>For each order product, enter the Quantity you want to reduce.</value>
+    </labels>
+    <labels>
+        <fullName>Add_Reduction_Products</fullName>
+        <categories>Order - Custom</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Add Reduction Products - Reduce Products Cmp</shortDescription>
+        <value>Add Reduction Order Products to</value>
+    </labels>
+    <labels>
+        <fullName>Added_Products</fullName>
+        <categories>Order - Custom</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Added Products - Reduce Products Cmp</shortDescription>
+        <value>Products were added.</value>
+    </labels>
+    <labels>
+        <fullName>Attach_Order_file</fullName>
+        <categories>Order - Custom</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Attach Order file - Validation message Supplements</shortDescription>
+        <value>Don&apos;t forget to upload your Quote or SOW document before requesting for Supplements approbation.</value>
+    </labels>
+    <labels>
+        <fullName>Attach_Order_file_2</fullName>
+        <categories>Order - Custom</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Attach Order file 2 - Validation message Supplements</shortDescription>
+        <value>Document with title containing at the beginning the text string &quot;OC-COT-&quot; or &quot;COT-SOW-&quot;.</value>
+    </labels>
+    <labels>
+        <fullName>Back</fullName>
+        <categories>Order - Custom</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Back - Supplements Cmp</shortDescription>
+        <value>Back</value>
+    </labels>
+    <labels>
+        <fullName>Back_to_Results</fullName>
+        <categories>Order - Custom</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Back to Results - Supplements Cmp</shortDescription>
+        <value>Back to Results</value>
+    </labels>
+    <labels>
+        <fullName>Cancel</fullName>
+        <categories>Order - Custom</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Cancel - Supplements Cmp</shortDescription>
+        <value>Cancel</value>
+    </labels>
+    <labels>
+        <fullName>Contacto_Split</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>Contacto Split (Division de Op)</shortDescription>
+        <value>0030g00002KJ5eRAAT</value>
+    </labels>
+    <labels>
+        <fullName>CrossSellingInglesDiv</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>CrossSellingInglesDiv</shortDescription>
+        <value>Divisa</value>
+    </labels>
+    <labels>
+        <fullName>CrossSellingInglesEdit</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>CrossSellingInglesEdit</shortDescription>
+        <value>Editar</value>
+    </labels>
+    <labels>
+        <fullName>CrossSellingInglesMsg</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>CrossSellingInglesMsg</shortDescription>
+        <value>Los productos duplicados no se agregan</value>
+    </labels>
+    <labels>
+        <fullName>CrossSellingInglesMsg10</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>CrossSellingInglesMsg10</shortDescription>
+        <value>No se permiten productos repetidos</value>
+    </labels>
+    <labels>
+        <fullName>CrossSellingInglesMsg2</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>CrossSellingInglesMsg2</shortDescription>
+        <value>Guardando los Productos</value>
+    </labels>
+    <labels>
+        <fullName>CrossSellingInglesMsg3</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>CrossSellingInglesMsg3</shortDescription>
+        <value>Eliminando Los Productos</value>
+    </labels>
+    <labels>
+        <fullName>CrossSellingInglesMsg4</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>CrossSellingInglesMsg4</shortDescription>
+        <value>Seleccionar todos</value>
+    </labels>
+    <labels>
+        <fullName>CrossSellingInglesMsg5</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>CrossSellingInglesMsg5</shortDescription>
+        <value>Debes capturar el Plazo de Contratación</value>
+    </labels>
+    <labels>
+        <fullName>CrossSellingInglesMsg6</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>CrossSellingInglesMsg6</shortDescription>
+        <value>Debes capturar un valor en el campo NRC y MRC en los productos</value>
+    </labels>
+    <labels>
+        <fullName>CrossSellingInglesMsg7</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>CrossSellingInglesMsg7</shortDescription>
+        <value>Debes capturar un valor en el campo M2 en los productos</value>
+    </labels>
+    <labels>
+        <fullName>CrossSellingInglesMsg8</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>CrossSellingInglesMsg8</shortDescription>
+        <value>Los productos se eliminaron correctamente de la oportunidad</value>
+    </labels>
+    <labels>
+        <fullName>CrossSellingInglesMsg9</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>CrossSellingInglesMsg9</shortDescription>
+        <value>Los productos se grabaron con exito</value>
+    </labels>
+    <labels>
+        <fullName>CrossSellingInglesSol</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>CrossSellingInglesSol</shortDescription>
+        <value>Solución</value>
+    </labels>
+    <labels>
+        <fullName>Dias_transcurridos</fullName>
+        <categories>New Logo</categories>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>Días transcurridos</shortDescription>
+        <value>365</value>
+    </labels>
+    <labels>
+        <fullName>Documento_Implementacion_LOA</fullName>
+        <categories>Configuracion</categories>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>Documento Implementacion LOA</shortDescription>
+        <value>Implementacion</value>
+    </labels>
+    <labels>
+        <fullName>Documento_Implementacion_LOA_2</fullName>
+        <categories>Configuracion</categories>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>Documento Implementacion LOA 2</shortDescription>
+        <value>Cierre</value>
+    </labels>
+    <labels>
+        <fullName>Documento_Implementacion_LOA_3</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>Documento Implementacion LOA 3</shortDescription>
+        <value>Evidencia</value>
+    </labels>
+    <labels>
+        <fullName>Edit_Selected_Order_Products</fullName>
+        <categories>Order - Custom</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Edit Selected Order Products - Supplements Cmp</shortDescription>
+        <value>Edit Selected Order Products</value>
+    </labels>
+    <labels>
+        <fullName>EmailCES1</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>EmailCES1</shortDescription>
+        <value>ialonso@kionetworks.com</value>
+    </labels>
+    <labels>
+        <fullName>EmailCES2</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>EmailCES2</shortDescription>
+        <value>tbocanegra@kionetworks.com</value>
+    </labels>
+    <labels>
+        <fullName>Enter_a_possitive_number</fullName>
+        <categories>Order - Custom</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Enter a possitive number - Reduce Products Cmp</shortDescription>
+        <value>You must enter a positive integer.</value>
+    </labels>
+    <labels>
+        <fullName>FacInglesComentariosCSC</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>FacInglesComentariosCSC</shortDescription>
+        <value>Finance Comments</value>
+    </labels>
+    <labels>
+        <fullName>FactEstadoAdjustments</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactEstadoAdjustments</shortDescription>
+        <value>Ajustes</value>
+    </labels>
+    <labels>
+        <fullName>FactEstadoApproved</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactEstadoApproved</shortDescription>
+        <value>Aprovado</value>
+    </labels>
+    <labels>
+        <fullName>FactEstadoAuthorized</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactEstadoAuthorized</shortDescription>
+        <value>Autorizado</value>
+    </labels>
+    <labels>
+        <fullName>FactEstadoCreNotAdj</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactEstadoCreNotAdj</shortDescription>
+        <value>Ajustes en Nota de Crédito</value>
+    </labels>
+    <labels>
+        <fullName>FactEstadoFacturado</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactEstadoFacturado</shortDescription>
+        <value>Facturado</value>
+    </labels>
+    <labels>
+        <fullName>FactEstadoRejected</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactEstadoRejected</shortDescription>
+        <value>Rechazado</value>
+    </labels>
+    <labels>
+        <fullName>FactEstatusCSCFacturada</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactEstatusCSCFacturada</shortDescription>
+        <value>Facturada</value>
+    </labels>
+    <labels>
+        <fullName>FactEstatusCSCRegPmo</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactEstatusCSCRegPmo</shortDescription>
+        <value>Regresar a PMO</value>
+    </labels>
+    <labels>
+        <fullName>FactEstatusCSCRegVent</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactEstatusCSCRegVent</shortDescription>
+        <value>Regresar a Ventas</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesAccExecut</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesAccExecut</shortDescription>
+        <value>Ejecutivo de la cuenta</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesActEntregaNo</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesActEntregaNo</shortDescription>
+        <value>No</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesActEntregaSi</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesActEntregaSi</shortDescription>
+        <value>Si</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesAdditComments</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesAdditComments</shortDescription>
+        <value>Comentarios Adicionales</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesAdditCommentsPMO</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesAdditCommentsPMO</shortDescription>
+        <value>Comentarios Adicionales PMO</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesAmount</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesAmount</shortDescription>
+        <value>Importe</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesAmountWithoutVAT</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesAmountWithoutVAT</shortDescription>
+        <value>Importe sin Iva</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesAppDate</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesAppDate</shortDescription>
+        <value>Fecha de Solicitud</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesAppInfo</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesAppInfo</shortDescription>
+        <value>Datos de la solicitud</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesAppNumber</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesAppNumber</shortDescription>
+        <value>Número de solicitud</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesAppSupport</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesAppSupport</shortDescription>
+        <value>Anexar soporte</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesAssignedPMO</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesAssignedPMO</shortDescription>
+        <value>PMO Asignado</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesBill</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesBill</shortDescription>
+        <value>Facturar</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesBillReasSoci</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesBillReasSoci</shortDescription>
+        <value>Razón Social a facturar</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesBillingStart</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesBillingStart</shortDescription>
+        <value>Inicio de facturación</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesBtnCancelar</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesBtnCancelar</shortDescription>
+        <value>Cancel</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesBusinessName</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesBusinessName</shortDescription>
+        <value>Razón Social</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesCancel</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesCancel</shortDescription>
+        <value>Cancelar</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesCatorce</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesCatorce</shortDescription>
+        <value>catorce</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesCien</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesCien</shortDescription>
+        <value>cien</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesCienMil</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesCienMil</shortDescription>
+        <value>cien mil</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesCiento</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesCiento</shortDescription>
+        <value>ciento</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesCincuenta</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesCincuenta</shortDescription>
+        <value>cincuenta</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesCinto</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesCinto</shortDescription>
+        <value>cinco</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesCode</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesCode</shortDescription>
+        <value>Código</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesCommDirecVoBo</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesCommDirecVoBo</shortDescription>
+        <value>Vo. Bo. Director Comercial</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesCommFinan</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesCommFinan</shortDescription>
+        <value>Comentarios Finanzas</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesComments</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesComments</shortDescription>
+        <value>Comentarios</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesContSignPrioBill</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesContSignPrioBill</shortDescription>
+        <value>Facturar Previo Firma Contrato</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesCreditNote</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesCreditNote</shortDescription>
+        <value>Nota de Crédito</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesCreditNoteApplied</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesCreditNoteApplied</shortDescription>
+        <value>Nota de crédito aplicada</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesCuarenta</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesCuarenta</shortDescription>
+        <value>cuarenta</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesCuatro</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesCuatro</shortDescription>
+        <value>cuatro</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesCuatrocientos</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesCuatrocientos</shortDescription>
+        <value>cuatrocientos</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesCurrency</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesCurrency</shortDescription>
+        <value>Moneda</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesCustomerInfor</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesCustomerInfor</shortDescription>
+        <value>Información del cliente</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesCustomerNumber</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesCustomerNumber</shortDescription>
+        <value>Número Cliente</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesDelStaDate</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesDelStaDate</shortDescription>
+        <value>Fecha de estatus facturado</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesDelete</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesDelete</shortDescription>
+        <value>Eliminar</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesDeliverables</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesDeliverables</shortDescription>
+        <value>Entregables</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesDeliveryDateDoc</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesDeliveryDateDoc</shortDescription>
+        <value>Fecha de acta de entrega</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesDeliveryDocument</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesDeliveryDocument</shortDescription>
+        <value>Acta de entrega</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesDescription</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesDescription</shortDescription>
+        <value>Descripción</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesDiecinueve</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesDiecinueve</shortDescription>
+        <value>diecinueve</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesDieciocho</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesDieciocho</shortDescription>
+        <value>dieciocho</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesDieciseis</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesDieciseis</shortDescription>
+        <value>dieciseis</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesDiecisiete</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesDiecisiete</shortDescription>
+        <value>diecisiete</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesDiez</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesDiez</shortDescription>
+        <value>diez</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesDiezMil</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesDiezMil</shortDescription>
+        <value>diez mil</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesDiezMillones</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesDiezMillones</shortDescription>
+        <value>diez millones</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesDirFinanVoBo</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesDirFinanVoBo</shortDescription>
+        <value>Vo. Bo. Director Finanzas</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesDoce</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesDoce</shortDescription>
+        <value>doce</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesDos</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesDos</shortDescription>
+        <value>dos</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesDoscientos</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesDoscientos</shortDescription>
+        <value>doscientos</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesEnd</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesEnd</shortDescription>
+        <value>Fin</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesEndBilling</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesEndBilling</shortDescription>
+        <value>Fin de facturación</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesFmtoSolFor</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesFmtoSolFor</shortDescription>
+        <value>Formato de solicitud para la</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesFormat</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesFormat</shortDescription>
+        <value>Formato</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesGeneralData</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesGeneralData</shortDescription>
+        <value>Datos generales</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesGovernment</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesGovernment</shortDescription>
+        <value>Gobierno</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesInProcess</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesInProcess</shortDescription>
+        <value>En Proceso</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesInitiative</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesInitiative</shortDescription>
+        <value>Iniciativa</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesInvProccDate</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesInvProccDate</shortDescription>
+        <value>Fecha de elaboración de factura</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesInvRecpReq</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesInvRecpReq</shortDescription>
+        <value>REQUISITOS PARA LA RECEPCIÓN DE FACTURA</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesInvoice</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesInvoice</shortDescription>
+        <value>Factura</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesInvoiced</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesInvoiced</shortDescription>
+        <value>Facturada</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesMRCBill</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesMRCBill</shortDescription>
+        <value>Factura MRC</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesMaterialsCode</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesMaterialsCode</shortDescription>
+        <value>Codigo Materiales</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesMil</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesMil</shortDescription>
+        <value>mil</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesMillones</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesMillones</shortDescription>
+        <value>millones</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesMsg</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesMsg</shortDescription>
+        <value>* En caso de servicios bajo demanda enviar formato mensualmente</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesMsg10</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesMsg10</shortDescription>
+        <value>Error al crear la solicitud:</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesMsg11</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesMsg11</shortDescription>
+        <value>La factura se creo con éxito</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesMsg12</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesMsg12</shortDescription>
+        <value>La solicitud no puede ser modificada debido a que su estatus ya se encuentra con valor facturado</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesMsg13</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesMsg13</shortDescription>
+        <value>La solicitud no puede ser modificada debido a que su estatus ya se encuentra como Nota de crédito aplicada</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesMsg14</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesMsg14</shortDescription>
+        <value>La fecha de elaboración de factura no debe de estar vacía</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesMsg15</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesMsg15</shortDescription>
+        <value>NÚMERO MAYOR A 12 DIGITOS NO SE PUEDE TRADUCIR</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesMsg2</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesMsg2</shortDescription>
+        <value>La solicitud no puede ser procesada ya que usted no es el propietario de la Oportunidad</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesMsg3</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesMsg3</shortDescription>
+        <value>La solicitud no puede ser procesada ya que la oportunidad no se encuentra en etapa de aceptación por el cliente</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesMsg4</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesMsg4</shortDescription>
+        <value>La solicitud no puede ser procesada ya que la oportunidad no tiene Número de Proyecto</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesMsg5</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesMsg5</shortDescription>
+        <value>La cuenta asociada a la oportunidad debe tener un número de cliente SAP</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesMsg6</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesMsg6</shortDescription>
+        <value>Se ha producido un error en el rango de fecha inicio y fecha fin de la solicitud</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesMsg7</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesMsg7</shortDescription>
+        <value>La solicitud (Nota de Crédito) no puede ser procesada ya que la oportunidad no se encuentra en etapa de 
+Ganada/Firma de contrato o Aceptación por el cliente</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesMsg8</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesMsg8</shortDescription>
+        <value>Debes seleccionar al menos un renglón para eliminar</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesMsg9</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesMsg9</shortDescription>
+        <value>Debes crear al menos un detalle</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesNRCBill</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesNRCBill</shortDescription>
+        <value>Factura NRC</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesNameApp</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesNameApp</shortDescription>
+        <value>Nombre de quien solicita</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesNew</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesNew</shortDescription>
+        <value>Agregar</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesNewInvoice</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesNewInvoice</shortDescription>
+        <value>Nueva</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesNovecientos</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesNovecientos</shortDescription>
+        <value>novecientos</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesNoventa</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesNoventa</shortDescription>
+        <value>noventa</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesNueve</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesNueve</shortDescription>
+        <value>nueve</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesOchenta</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesOchenta</shortDescription>
+        <value>ochenta</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesOcho</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesOcho</shortDescription>
+        <value>ocho</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesOchocientos</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesOchocientos</shortDescription>
+        <value>ochocientos</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesOnce</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesOnce</shortDescription>
+        <value>once</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesOppName</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesOppName</shortDescription>
+        <value>Nombre de la oportunidad</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesOppNumber</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesOppNumber</shortDescription>
+        <value>Núm. de oportunidad</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesOppStage</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesOppStage</shortDescription>
+        <value>Aceptación por el cliente</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesOppStage10</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesOppStage10</shortDescription>
+        <value>Revisión interna de propuesta</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesOppStage11</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesOppStage11</shortDescription>
+        <value>Creación de la Propuesta</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesOppStage12</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesOppStage12</shortDescription>
+        <value>Descartada por dirección</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesOppStage13</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesOppStage13</shortDescription>
+        <value>Presentación propuesta al cliente</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesOppStage2</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesOppStage2</shortDescription>
+        <value>Ganada/Firma de contrato</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesOppStage3</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesOppStage3</shortDescription>
+        <value>Cerrado Aceptación por el cliente</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesOppStage4</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesOppStage4</shortDescription>
+        <value>Validación propuesta por cliente</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesOppStage5</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesOppStage5</shortDescription>
+        <value>Negociación</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesOppStage6</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesOppStage6</shortDescription>
+        <value>Detección de necesidades</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesOppStage7</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesOppStage7</shortDescription>
+        <value>Ganada</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesOppStage8</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesOppStage8</shortDescription>
+        <value>Perdida</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesOppStage9</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesOppStage9</shortDescription>
+        <value>Standby</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesOthers</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesOthers</shortDescription>
+        <value>Otros</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesPenAppJob</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesPenAppJob</shortDescription>
+        <value>Anexar oficio de penalidad</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesPrivate</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesPrivate</shortDescription>
+        <value>Privada</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesPurchaseOrder</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesPurchaseOrder</shortDescription>
+        <value>Orden de compra</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesQuantity</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesQuantity</shortDescription>
+        <value>Cantidad</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesQuince</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesQuince</shortDescription>
+        <value>quince</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesQuinientos</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesQuinientos</shortDescription>
+        <value>quinientos</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesReason</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesReason</shortDescription>
+        <value>Motivo</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesRecordType</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesRecordType</shortDescription>
+        <value>Tipo de Registro</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesRecordTypeInv</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesRecordTypeInv</shortDescription>
+        <value>Tipo de Registro de la Factura</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesResponsibleArea</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesResponsibleArea</shortDescription>
+        <value>Área responsable</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesRestriction</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesRestriction</shortDescription>
+        <value>Restricción</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesSave</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesSave</shortDescription>
+        <value>Guardar</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesSector</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesSector</shortDescription>
+        <value>Sector</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesSeis</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesSeis</shortDescription>
+        <value>seis</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesSeiscientos</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesSeiscientos</shortDescription>
+        <value>seiscientos</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesSelRecordType</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesSelRecordType</shortDescription>
+        <value>Selecciona el tipo de registo</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesSelect</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesSelect</shortDescription>
+        <value>Seleccionar</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesServAffecMonth</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesServAffecMonth</shortDescription>
+        <value>Servicios del mes afectado</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesServDelParTot</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesServDelParTot</shortDescription>
+        <value>Entrega total o parcial de servicios</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesServDeliv</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesServDeliv</shortDescription>
+        <value>Service Delivery</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesService</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesService</shortDescription>
+        <value>Servicio</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesSesenta</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesSesenta</shortDescription>
+        <value>sesenta</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesSetecientos</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesSetecientos</shortDescription>
+        <value>setecientos</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesSetenta</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesSetenta</shortDescription>
+        <value>setenta</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesSiete</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesSiete</shortDescription>
+        <value>siete</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesSociety</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesSociety</shortDescription>
+        <value>Sociedad</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesStart</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesStart</shortDescription>
+        <value>Inicio</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesStatus</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesStatus</shortDescription>
+        <value>Estatus</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesTotAmountWords</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesTotAmountWords</shortDescription>
+        <value>Importe total en letras</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesTotalAmount</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesTotalAmount</shortDescription>
+        <value>Monto Total</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesTradename</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesTradename</shortDescription>
+        <value>Nombre Comercial</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesTrece</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesTrece</shortDescription>
+        <value>trece</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesTreinta</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesTreinta</shortDescription>
+        <value>treinta</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesTres</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesTres</shortDescription>
+        <value>tres</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesTrescientos</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesTrescientos</shortDescription>
+        <value>trescientos</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesUn</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesUn</shortDescription>
+        <value>un</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesUnMillon</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesUnMillon</shortDescription>
+        <value>un millón</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesUnitPrice</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesUnitPrice</shortDescription>
+        <value>Precio unitario</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesUno</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesUno</shortDescription>
+        <value>Uno</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesVeinte</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesVeinte</shortDescription>
+        <value>veinte</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesVeinti</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesVeinti</shortDescription>
+        <value>Veinti</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesWhaMonYouWanBill</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesWhaMonYouWanBill</shortDescription>
+        <value>Que mes quieres facturar</value>
+    </labels>
+    <labels>
+        <fullName>FactInglesY</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactInglesY</shortDescription>
+        <value>y</value>
+    </labels>
+    <labels>
+        <fullName>FactNrcServicioMsg</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>FactNrcServicioMsg</shortDescription>
+        <value>Tienes que capturar un valor en el campo de Servicio.</value>
+    </labels>
+    <labels>
+        <fullName>Folio_Pedido</fullName>
+        <categories>Order - Custom</categories>
+        <language>es_MX</language>
+        <protected>false</protected>
+        <shortDescription>Folio Pedido - Order Name</shortDescription>
+        <value>PED-{0}-{1}</value>
+    </labels>
+    <labels>
+        <fullName>ForecastAccount</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastAccount</shortDescription>
+        <value>Cuenta</value>
+    </labels>
+    <labels>
+        <fullName>ForecastAccumMonthly</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastAccumMonthly</shortDescription>
+        <value>Acumulado Mensual</value>
+    </labels>
+    <labels>
+        <fullName>ForecastAccumulatedMRC</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastAccumulatedMRC</shortDescription>
+        <value>Acumulado MRC</value>
+    </labels>
+    <labels>
+        <fullName>ForecastAccumulatedNRC</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastAccumulatedNRC</shortDescription>
+        <value>Acumulado NRC</value>
+    </labels>
+    <labels>
+        <fullName>ForecastAddParam</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastAddParam</shortDescription>
+        <value>Criterios Adicionales</value>
+    </labels>
+    <labels>
+        <fullName>ForecastAnio</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastAnio</shortDescription>
+        <value>Año</value>
+    </labels>
+    <labels>
+        <fullName>ForecastApril</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastApril</shortDescription>
+        <value>Abril</value>
+    </labels>
+    <labels>
+        <fullName>ForecastAugust</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastAugust</shortDescription>
+        <value>Agosto</value>
+    </labels>
+    <labels>
+        <fullName>ForecastCloseDate</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastCloseDate</shortDescription>
+        <value>Fecha de cierre</value>
+    </labels>
+    <labels>
+        <fullName>ForecastCompany</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastCompany</shortDescription>
+        <value>Empresas</value>
+    </labels>
+    <labels>
+        <fullName>ForecastCountries</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastCountries</shortDescription>
+        <value>Paises</value>
+    </labels>
+    <labels>
+        <fullName>ForecastCountry</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastCountry</shortDescription>
+        <value>Pais</value>
+    </labels>
+    <labels>
+        <fullName>ForecastCurrency</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastCurrency</shortDescription>
+        <value>Moneda</value>
+    </labels>
+    <labels>
+        <fullName>ForecastDecember</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastDecember</shortDescription>
+        <value>Diciembre</value>
+    </labels>
+    <labels>
+        <fullName>ForecastDetailForecast</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastDetailForecast</shortDescription>
+        <value>Detalle de Forecast</value>
+    </labels>
+    <labels>
+        <fullName>ForecastDivision</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastDivision</shortDescription>
+        <value>División</value>
+    </labels>
+    <labels>
+        <fullName>ForecastDivisions</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastDivisions</shortDescription>
+        <value>Divisiones</value>
+    </labels>
+    <labels>
+        <fullName>ForecastEndDate</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastEndDate</shortDescription>
+        <value>Fecha Fin</value>
+    </labels>
+    <labels>
+        <fullName>ForecastExcelExport</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastExcelExport</shortDescription>
+        <value>Exportar a Excel</value>
+    </labels>
+    <labels>
+        <fullName>ForecastFebruary</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastFebruary</shortDescription>
+        <value>Febrero</value>
+    </labels>
+    <labels>
+        <fullName>ForecastFilForeRep</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastFilForeRep</shortDescription>
+        <value>Filtros Forecast Report</value>
+    </labels>
+    <labels>
+        <fullName>ForecastGenerateReport</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastGenerateReport</shortDescription>
+        <value>Generar Reporte</value>
+    </labels>
+    <labels>
+        <fullName>ForecastInglesMsg</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastInglesMsg</shortDescription>
+        <value>El año de la fecha no corresponde con el parámetro de Año.</value>
+    </labels>
+    <labels>
+        <fullName>ForecastJanuary</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastJanuary</shortDescription>
+        <value>Enero</value>
+    </labels>
+    <labels>
+        <fullName>ForecastJuly</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastJuly</shortDescription>
+        <value>Julio</value>
+    </labels>
+    <labels>
+        <fullName>ForecastJune</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastJune</shortDescription>
+        <value>Junio</value>
+    </labels>
+    <labels>
+        <fullName>ForecastMarch</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastMarch</shortDescription>
+        <value>Marzo</value>
+    </labels>
+    <labels>
+        <fullName>ForecastMay</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastMay</shortDescription>
+        <value>Mayo</value>
+    </labels>
+    <labels>
+        <fullName>ForecastMonthly</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastMonthly</shortDescription>
+        <value>mensual</value>
+    </labels>
+    <labels>
+        <fullName>ForecastNatural</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastNatural</shortDescription>
+        <value>Natural</value>
+    </labels>
+    <labels>
+        <fullName>ForecastNovember</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastNovember</shortDescription>
+        <value>Noviembre</value>
+    </labels>
+    <labels>
+        <fullName>ForecastOctober</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastOctober</shortDescription>
+        <value>Octubre</value>
+    </labels>
+    <labels>
+        <fullName>ForecastOpportunity</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastOpportunity</shortDescription>
+        <value>Oportunidad</value>
+    </labels>
+    <labels>
+        <fullName>ForecastOwner</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastOwner</shortDescription>
+        <value>Propietarios</value>
+    </labels>
+    <labels>
+        <fullName>ForecastQuarter</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastQuarter</shortDescription>
+        <value>trimestre</value>
+    </labels>
+    <labels>
+        <fullName>ForecastSellWitCom</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastSellWitCom</shortDescription>
+        <value>Vendedor sin Empresa</value>
+    </labels>
+    <labels>
+        <fullName>ForecastSellWitCount</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastSellWitCount</shortDescription>
+        <value>Vendedor sin Pais</value>
+    </labels>
+    <labels>
+        <fullName>ForecastSellWitDiv</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastSellWitDiv</shortDescription>
+        <value>Vendedor sin Division</value>
+    </labels>
+    <labels>
+        <fullName>ForecastSemester</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastSemester</shortDescription>
+        <value>semestre</value>
+    </labels>
+    <labels>
+        <fullName>ForecastSeptember</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastSeptember</shortDescription>
+        <value>Septiembre</value>
+    </labels>
+    <labels>
+        <fullName>ForecastStage</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastStage</shortDescription>
+        <value>Etapa</value>
+    </labels>
+    <labels>
+        <fullName>ForecastStages</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastStages</shortDescription>
+        <value>Etapas</value>
+    </labels>
+    <labels>
+        <fullName>ForecastStartDate</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastStartDate</shortDescription>
+        <value>Fecha Inicio</value>
+    </labels>
+    <labels>
+        <fullName>ForecastTerm</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastTerm</shortDescription>
+        <value>Plazo</value>
+    </labels>
+    <labels>
+        <fullName>ForecastThousands</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastThousands</shortDescription>
+        <value>Miles</value>
+    </labels>
+    <labels>
+        <fullName>ForecastTotalCompany</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastTotalCompany</shortDescription>
+        <value>Total Empresa</value>
+    </labels>
+    <labels>
+        <fullName>ForecastTotalCompanyMRC</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastTotalCompanyMRC</shortDescription>
+        <value>Total Empresa MRC</value>
+    </labels>
+    <labels>
+        <fullName>ForecastTotalCompanyNRC</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastTotalCompanyNRC</shortDescription>
+        <value>Total Empresa NRC</value>
+    </labels>
+    <labels>
+        <fullName>ForecastTotalCountry</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastTotalCountry</shortDescription>
+        <value>Total PaÍs</value>
+    </labels>
+    <labels>
+        <fullName>ForecastTotalCountryMRC</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastTotalCountryMRC</shortDescription>
+        <value>Total Pais MRC</value>
+    </labels>
+    <labels>
+        <fullName>ForecastTotalCountryNRC</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastTotalCountryNRC</shortDescription>
+        <value>Total Pais NRC</value>
+    </labels>
+    <labels>
+        <fullName>ForecastTotalInter</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastTotalInter</shortDescription>
+        <value>Total Internacional</value>
+    </labels>
+    <labels>
+        <fullName>ForecastValues</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>ForecastValues</shortDescription>
+        <value>Valores</value>
+    </labels>
+    <labels>
+        <fullName>Invalid_Order_type_to_add_Products</fullName>
+        <categories>Order - Custom</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Invalid Order type to add Products - Reduce Products Cmp</shortDescription>
+        <value>Invalid order type, it is not possible to add products on a reduction order.</value>
+    </labels>
+    <labels>
+        <fullName>Invalid_Status_message</fullName>
+        <categories>Order - Custom</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Invalid Status message - Supplements Cmp</shortDescription>
+        <value>Status not allowed to add products.</value>
+    </labels>
+    <labels>
+        <fullName>Limit_quantity</fullName>
+        <categories>Order - Custom</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Limit quantity - Reduce Products Cmp</shortDescription>
+        <value>You must enter a positive integer less than or equal to</value>
+    </labels>
+    <labels>
+        <fullName>Next</fullName>
+        <categories>Order - Custom</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Next - Supplements Cmp</shortDescription>
+        <value>Next</value>
+    </labels>
+    <labels>
+        <fullName>No_PEP</fullName>
+        <categories>Order - Custom</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No PEP - Budget Advancing Cmp</shortDescription>
+        <value>No related PEP record</value>
+    </labels>
+    <labels>
+        <fullName>No_established_budget</fullName>
+        <categories>Order - Custom</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No established budget - Budget Advancing Cmp</shortDescription>
+        <value>No established budget</value>
+    </labels>
+    <labels>
+        <fullName>No_order_products</fullName>
+        <categories>Order - Custom</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No order products - Reduce Products Cmp</shortDescription>
+        <value>There are no order products that can be reduced.</value>
+    </labels>
+    <labels>
+        <fullName>Not_a_reduction_order</fullName>
+        <categories>Order - Custom</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Not a reduction order - Reduce Products Cmp</shortDescription>
+        <value>Invalid process, the current order is not a reduction order.</value>
+    </labels>
+    <labels>
+        <fullName>Oportunidades_automaticas1</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>Oportunidades automaticas1</shortDescription>
+        <value>2019</value>
+    </labels>
+    <labels>
+        <fullName>Oportunidades_automaticas2</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>Oportunidades_automaticas2</shortDescription>
+        <value>04</value>
+    </labels>
+    <labels>
+        <fullName>Oportunidades_automaticas3</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>Oportunidades_automaticas3</shortDescription>
+        <value>08</value>
+    </labels>
+    <labels>
+        <fullName>PMO</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>PMO</shortDescription>
+        <value>PMO</value>
+    </labels>
+    <labels>
+        <fullName>PerfilVentas</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>PerfilVentas</shortDescription>
+        <value>Ventas</value>
+    </labels>
+    <labels>
+        <fullName>Perfil_Ventas_DCS</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>Perfil Ventas DCS</shortDescription>
+        <value>Ventas DCS</value>
+    </labels>
+    <labels>
+        <fullName>Price_Book</fullName>
+        <categories>Order - Custom</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Price Book - Supplements Cmp</shortDescription>
+        <value>Price Book</value>
+    </labels>
+    <labels>
+        <fullName>Records_on_list_limit_message</fullName>
+        <categories>Order - Custom</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Records on list limit message - Supplements Cmp</shortDescription>
+        <value>We currently do not support viewing more than {0} records in this list.</value>
+    </labels>
+    <labels>
+        <fullName>Reduction_Order_Name</fullName>
+        <categories>Order - Custom</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Reduction Order Name</shortDescription>
+        <value>Reduction Order</value>
+    </labels>
+    <labels>
+        <fullName>Refresh_information</fullName>
+        <categories>Order - Custom</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Refresh information - Budget Advancing Cmp</shortDescription>
+        <value>Refresh information</value>
+    </labels>
+    <labels>
+        <fullName>Save</fullName>
+        <categories>Order - Custom</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Save - Supplements Cmp</shortDescription>
+        <value>Save</value>
+    </labels>
+    <labels>
+        <fullName>Search_Products</fullName>
+        <categories>Order - Custom</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Search Products - Supplements Cmp</shortDescription>
+        <value>Search Products</value>
+    </labels>
+    <labels>
+        <fullName>Search_term_characters_number</fullName>
+        <categories>Order - Custom</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Search term characters number - Supplements Cmp</shortDescription>
+        <value>Your search term must have 2 or more characters.</value>
+    </labels>
+    <labels>
+        <fullName>Sender_Name_Email</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>Sender Name Email</shortDescription>
+        <value>Salesforce</value>
+    </labels>
+    <labels>
+        <fullName>Show_Selected</fullName>
+        <categories>Order - Custom</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Show Selected - Supplements Cmp</shortDescription>
+        <value>Show Selected</value>
+    </labels>
+    <labels>
+        <fullName>SolFactConDetCantCero</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>SolFactConDetCantCero</shortDescription>
+        <value>Debes capturar una cantidad en el detalle de la solicitud.</value>
+    </labels>
+    <labels>
+        <fullName>SolFactEditGeneroFactura</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>SolFactEditGeneroFactura</shortDescription>
+        <value>Generó la Factura</value>
+    </labels>
+    <labels>
+        <fullName>SolFactEditSend</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SolFactEditSend</shortDescription>
+        <value>Enviar</value>
+    </labels>
+    <labels>
+        <fullName>SolFactEditStatusCSC</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SolFactEditStatusCSC</shortDescription>
+        <value>Estatus CSC</value>
+    </labels>
+    <labels>
+        <fullName>SolFactEditStatusPMOC</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SolFactEditStatusPMOC</shortDescription>
+        <value>Estatus PMO</value>
+    </labels>
+    <labels>
+        <fullName>SolFactEditcommentsCSC</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SolFactEditcommentsCSC</shortDescription>
+        <value>Comentarios CSC</value>
+    </labels>
+    <labels>
+        <fullName>SolFactEditcommentsPMOC</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SolFactEditcommentsPMOC</shortDescription>
+        <value>Comentarios PMO</value>
+    </labels>
+    <labels>
+        <fullName>SolicitudDePropuestaTrigger_Division1</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>SolicitudDePropuestaTrigger_Division1</shortDescription>
+        <value>KCS</value>
+    </labels>
+    <labels>
+        <fullName>SolicitudDePropuestaTrigger_Error1</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>SolicitudDePropuestaTrigger_Error1</shortDescription>
+        <value>No es posible crear la Solicitud de Propuesta sin antes haber completado la Evaluación de la oportunidad</value>
+    </labels>
+    <labels>
+        <fullName>Stage5_RT_DCS</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>Stage5_RT_DCS</shortDescription>
+        <value>Acceptance</value>
+    </labels>
+    <labels>
+        <fullName>Stage5_RT_ITS</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>Stage5_RT_ITS</shortDescription>
+        <value>Acceptance/Commit</value>
+    </labels>
+    <labels>
+        <fullName>Stage6_Closed_Won</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>Stage6_Closed Won</shortDescription>
+        <value>Closed Won</value>
+    </labels>
+    <labels>
+        <fullName>TriggerErrorStatus1</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>TriggerErrorStatus1</shortDescription>
+        <value>On</value>
+    </labels>
+    <labels>
+        <fullName>View_All</fullName>
+        <categories>Order - Custom</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>View All - Supplements Cmp</shortDescription>
+        <value>View All</value>
+    </labels>
+    <labels>
+        <fullName>doit_inpc_anniversary_id</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>doit_inpc_anniversary_id</shortDescription>
+        <value>a27TI0000000RBVYA2</value>
+    </labels>
+    <labels>
+        <fullName>doit_inpc_rt_inpc</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>doit_inpc_rt_inpc</shortDescription>
+        <value>012TI0000000VwfYAE</value>
+    </labels>
+    <labels>
+        <fullName>iFrameDomo1</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>iFrameDomo1</shortDescription>
+        <value>https://kionetworks.domo.com/embed/card/private/qxyV3</value>
+    </labels>
+    <labels>
+        <fullName>iFrameDomo2</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>iFrameDomo2</shortDescription>
+        <value>https://kionetworks.domo.com/embed/card/private/1wKV3</value>
+    </labels>
+    <labels>
+        <fullName>iFrameDomo3</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>iFrameDomo3</shortDescription>
+        <value>https://kionetworks.domo.com/embed/card/private/73QDw</value>
+    </labels>
+    <labels>
+        <fullName>iFrameDomo4</fullName>
+        <language>es</language>
+        <protected>false</protected>
+        <shortDescription>iFrameDomo4</shortDescription>
+        <value>https://kionetworks.domo.com/embed/card/private/82RXl</value>
+    </labels>
+    <labels>
+        <fullName>th_TrailheadInputSearchDelay</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Number of milliseconds to wait before perfoming a search</shortDescription>
+        <value>600</value>
+    </labels>
+    <labels>
+        <fullName>th_TrailheadMinCharSearchThreshold</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Minimum number of characters before a search is perfomed</shortDescription>
+        <value>1</value>
+    </labels>
+    <labels>
+        <fullName>th_TrailheadShareCompleteMsg</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Message to share for completed trailhead items</shortDescription>
+        <value>Hey, I completed this. Why don&apos;t you give it a try?</value>
+    </labels>
+    <labels>
+        <fullName>th_TrailheadShareIncompleteMsg</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Message to share for in-progress trailhead items</shortDescription>
+        <value>Hey, check out this learning.</value>
+    </labels>
+    <labels>
+        <fullName>th_TrailheadTypeBadge</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Trailhead Assignment Type Badge</shortDescription>
+        <value>Badge</value>
+    </labels>
+    <labels>
+        <fullName>th_TrailheadTypeBoth</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Trailhead Assignment Type Both</shortDescription>
+        <value>Both</value>
+    </labels>
+    <labels>
+        <fullName>th_TrailheadTypeTrailmix</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Trailhead Assignment Type Trailmix</shortDescription>
+        <value>TrailMix</value>
+    </labels>
+    <labels>
+        <fullName>th_trailhead_link_address</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Trailhead Assignment List Trailhead Link Address</shortDescription>
+        <value>https://trailhead.salesforce.com/</value>
+    </labels>
+    <labels>
+        <fullName>th_trailhead_link_label</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Trailhead Assignment List Trailhead Link Label</shortDescription>
+        <value>myTrailhead</value>
+    </labels>
+    <labels>
+        <fullName>th_trailhead_trail_icon</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Trailhead Assignment List Trail Icon</shortDescription>
+        <value>https://trailhead-web.s3.amazonaws.com/uploads/users/5396019/photos/thumb_030804d3576dab0cdc2a558055816208e421312a9d1495117d57928ef380d7f2.png?updatedAt=20180906113753</value>
+    </labels>
+</CustomLabels>

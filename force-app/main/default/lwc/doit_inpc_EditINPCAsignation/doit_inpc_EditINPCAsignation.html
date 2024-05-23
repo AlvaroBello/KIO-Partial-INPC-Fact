@@ -1,0 +1,115 @@
+<template>
+    <lightning-card>
+        <lightning-button-icon  slot="actions" if:true={check} variant="brand" icon-name="utility:send" onclick={handleSubmit} class="slds-m-left_xx-small"></lightning-button-icon>
+        <lightning-record-edit-form object-api-name="Asignacion_de_INPC__c" record-id={recordIdAsignacion}>
+            <div class="slds-grid slds-wrap">
+                <div class="slds-col slds-size_1-of-2">
+                    <div class="slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small">
+                        <label>Nombre</label>
+                        <lightning-input-field field-name="Name" variant="label-hidden" disabled ></lightning-input-field>
+                    </div>
+                </div>
+                <div class="slds-col slds-size_1-of-2">
+                    <div class="slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small">
+                        <label>Control INPC</label>
+                        <lightning-input-field field-name="INPC__c" variant="label-hidden" disabled ></lightning-input-field>
+                    </div>
+                </div>
+                <div class="slds-col slds-size_1-of-2">
+                    <div class="slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small">
+                        <label>Objetivo de Inflación</label>
+                        <lightning-input-field field-name="Objetivo_de_Inflacion__c" variant="label-hidden" disabled value={inpcoriginal}></lightning-input-field>
+                    </div>
+                </div>
+                <div class="slds-col slds-size_1-of-2" lwc:if={aceptado}>
+                    <div class="slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small">
+                        <label>INPC Pactado</label>
+                        <lightning-input-field field-name="INPC_Pactado__c" variant="label-hidden" disabled></lightning-input-field>
+                    </div>
+                </div>
+                <div class="slds-col slds-size_1-of-2" if:false={nonegociable}>
+                    <div class="slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small">
+                        <label>INPC Pactado</label>
+                        <lightning-input-field field-name="INPC_Pactado__c" variant="label-hidden" value={inpcpactado} onchange={handleChangeINPC} required ></lightning-input-field>
+                    </div>
+                </div>
+                <div class="slds-col slds-size_1-of-2" if:true={negociando}>
+                    <div class="slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small">
+                        <label>INPC en Negociación</label>
+                        <lightning-input-field field-name="INPC_Negociado__c" variant="label-hidden" disabled ></lightning-input-field>
+                    </div>
+                </div>
+                <div class="slds-col slds-size_1-of-1" if:true={envionegociacion}>
+                    <div if:false={nonegociable} class="slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small">
+                        <label>Comentarios</label>
+                        <lightning-input-field field-name="Comentarios_INPC_Vendedor__c" variant="label-hidden" value={comments} onchange={handleChangeComments} required ></lightning-input-field>
+                    </div>
+                </div>
+                <div class="slds-col slds-size_1-of-1" if:true={negociando}>
+                    <div class="slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small">
+                        <label>Comentarios</label>
+                        <lightning-input-field field-name="Comentarios_INPC_Vendedor__c" variant="label-hidden" disabled ></lightning-input-field>
+                    </div>
+                </div>
+                <div class="slds-col slds-size_1-of-2">
+                    <div class="slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small">
+                        <label>Periodo</label>
+                        <lightning-input-field field-name="Periodo__c" variant="label-hidden" disabled ></lightning-input-field>
+                    </div>
+                </div>
+            </div>
+            <div class="slds-grid slds-wrap">
+                <div class="slds-col slds-size_1-of-2">
+                    <div class="slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small">
+                        <label>Vigencia de Inicio</label>
+                        <lightning-input-field field-name="Vigencia_de_Inicio__c" variant="label-hidden" disabled ></lightning-input-field>
+                    </div>
+                </div>
+                <div class="slds-col slds-size_1-of-2">
+                    <div class="slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small">
+                        <label>Vigencia de Fin</label>
+                        <lightning-input-field field-name="Vigencia_de_Fin__c" variant="label-hidden" disabled ></lightning-input-field>
+                    </div>
+                </div>
+            </div>
+            <div class="slds-grid slds-wrap">
+                <div class="slds-col slds-size_1-of-2">
+                    <div class="slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small">
+                        <label>MRC</label>
+                        <lightning-input-field field-name="MRC__c" variant="label-hidden" disabled ></lightning-input-field>
+                    </div>
+                </div>
+                <div class="slds-col slds-size_1-of-2">
+                    <div class="slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small">
+                        <label>MRC con Inflación</label>
+                        <lightning-input-field field-name="MRC_c_Inflacion__c" variant="label-hidden" disabled ></lightning-input-field>
+                    </div>
+                </div>
+                <div class="slds-col slds-size_1-of-2">
+                    <div class="slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small">
+                        <label>Diferencial</label>
+                        <lightning-input-field field-name="Diferencial__c" variant="label-hidden" disabled ></lightning-input-field>
+                    </div>
+                </div>
+            </div>
+            <div class="slds-grid slds-wrap">
+                <div class="slds-col slds-size_1-of-2">
+                    <div class="slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small">
+                        <label>Mes que aplico</label>
+                        <lightning-input-field field-name="Mes_que_aplico__c" variant="label-hidden" disabled ></lightning-input-field>
+                    </div>
+                </div>
+                <div class="slds-col slds-size_1-of-2">
+                    <div class="slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small">
+                        <label>Mes que debio aplicar</label>
+                        <lightning-input-field field-name="Mes_que_debio_aplicar__c" variant="label-hidden" disabled ></lightning-input-field>
+                    </div>
+                </div>
+            </div>
+        </lightning-record-edit-form>
+        <div if:false={nonegociable} slot="footer" > Confirmar para avanzar
+            <lightning-helptext content='Seleccionar para la creación y confirmación de datos'></lightning-helptext>
+            <lightning-input type="checkbox" value={check} onchange={handleChange} required></lightning-input>
+        </div>
+    </lightning-card>
+</template>
